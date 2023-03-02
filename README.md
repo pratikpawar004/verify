@@ -16,7 +16,7 @@ Aero Instagram link :-  https://aeroinsta.com/
 
 ![IMG_20230302_105450](https://user-images.githubusercontent.com/115889762/222339054-82e1fbd0-2afe-436c-ae2f-060f5b37b016.jpg)
 
-2)Then go to "verify badge"
+2) Then go to "verify badge"
 
 ![Screenshot_2023-03-02-10-44-51-450_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222339208-b8913e55-3fe7-4f4d-ab06-38bcf0a816ea.jpg)
 
