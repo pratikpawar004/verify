@@ -32,7 +32,7 @@ Aero Instagram link :-  https://aeroinsta.com/
 
 ![Screenshot_2023-03-02-10-43-49-136_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222340746-1f9fe382-e1af-4c66-bcc2-850f0e7c5d7c.jpg)
 
-6) Then pest the link " https://raw.githubusercontent.com/pratikpawar004/verify/main/p.json "
+6) Then pest this link " https://pratikpawar004.github.io/verify/p.json "
 
 ![Screenshot_2023-03-02-10-43-59-063_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222341098-6d8257fe-6711-423c-aa14-31abead50ced.jpg)
 
