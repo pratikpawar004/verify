@@ -34,7 +34,8 @@ Aero Instagram link :-  https://aeroinsta.com/
 
 6) Then pest this link " https://pratikpawar004.github.io/verify/p.json "
 
-![Screenshot_2023-03-02-10-43-59-063_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222341098-6d8257fe-6711-423c-aa14-31abead50ced.jpg)
+![Screenshot_2023-06-10-12-48-16-310_com aeroinsta android](https://github.com/pratikpawar004/verify/assets/115889762/d9e88242-d67e-4ed5-a01f-723375c3179b)
+
 
 
 You can request my code to add your Instagram username
